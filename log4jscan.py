@@ -107,7 +107,7 @@ def help():
     print('''if sls environ is set, it can be report the result to aliyun sls using webtrack''')
     print('''the sls endpoint is 'http://{project}.{region}.log.aliyuncs.com/logstores/{logstore}/track' and should enable webtrack''')
     print('''if not a aliyun instance, use aliyun=no to ignore aliyun instance-identity''')
-    print('-------------------------Good Luck-----------------------------------------''')
+    print('''-------------------------Good Luck---------------------------------------''')
 
 
 if __name__=='__main__':
